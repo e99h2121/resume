@@ -14,9 +14,9 @@
 ## 各種アカウント
 <p>
 <a href="https://github.com/e99h2121" target="_blank"><img alt="Github" src="https://img.shields.io/badge/e99h2121-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/e99h2121" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/e99h2121" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-<a href="https://zenn.dev/e99h2121" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://twitter.com/e99h2121" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@e99h2121-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://qiita.com/e99h2121" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/e99h2121-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://zenn.dev/e99h2121" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/e99h2121-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 <a href="https://speakerdeck.com/e99h2121" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/e99h2121-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
