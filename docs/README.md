@@ -95,7 +95,7 @@
 ### 技術記事投稿
 
 - **Qiita**
-    - 消防士時代から投稿を続け 2021/10 現在、269 記事、 25,132LGTM
+    - 2021/10 現在、269 記事、 25,132LGTM
     - [https://qiita.com/e99h2121](https://qiita.com/e99h2121)
 - **Zenn**
     - [https://zenn.dev/e99h2121](https://zenn.dev/e99h2121)
