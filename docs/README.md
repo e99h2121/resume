@@ -37,11 +37,14 @@
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-007396?style=flat-square&logo=Delphi&logoColor=white" />
+  <img alt="COBOL" src="https://img.shields.io/badge/-COBOL-FD8308.svg?logo=cobol&style=flat-square" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
 <p>
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
@@ -52,12 +55,49 @@
 
 ### 株式会社Works Human Intelligence（2019/08〜現在）
 
+- 2019/04 - 	人事給与 	開発復帰
+
+
+
+
 ### 株式会社Works Applications（2003/03〜2019/07）
+
+- 2018/06 - 2018/09	総務	通翻訳チームの総務引き継ぎ
+- 2016/04 - 2018/06	Advanced Technology and Engineering	通翻訳チーム
+- 2013/07 - 2016/03	上海拠点
+- 2010/07 - 2013/07	頃  人事	技術基盤のチームマネジメント	
+- 2007/07 - 2010/07 頃	人事	DB2マイグレーションプロジェクト、技術基盤系	
+- 2005/07 - 2007/07 頃	人事	サブシステム担当
+- 2004/07 - 2005/07 頃	共通	新Versionリリース	
+- 2003/07 - 2004/07 頃	会計	三層構造覚えた	
+- 2003/04 ～2003/06	研修	ワークス社初の新卒１期生	Delphi、COBOL
 
 
 ---
 
 ## 業務外活動
+
+### 技術記事投稿
+
+- **Qiita**
+    - 2021/10 現在、269 記事、 25,132LGTM
+    - [https://qiita.com/e99h2121](https://qiita.com/e99h2121)
+- **Zenn**
+    - [https://zenn.dev/e99h2121](https://zenn.dev/e99h2121)
+- **note**
+
+### 勉強会での登壇
+
+- **登壇資料**
+    - [https://speakerdeck.com/e99h2121](https://speakerdeck.com/e99h2121)
+
+### 勉強会の開催
+
+- 社内勉強会の企画・運営
+
+### その他
+
+- 作成中
 
 ### OSS活動
 
@@ -84,33 +124,7 @@
   </tbody>
 </table>
 
-#### その他
-
-- 作成中
-
 ### 副業
-
-- 作成中
-
-### 技術記事投稿
-
-- **Qiita**
-    - 2021/10 現在、269 記事、 25,132LGTM
-    - [https://qiita.com/e99h2121](https://qiita.com/e99h2121)
-- **Zenn**
-    - [https://zenn.dev/e99h2121](https://zenn.dev/e99h2121)
-- **note**
-
-### 勉強会での登壇
-
-- **登壇資料**
-    - [https://speakerdeck.com/e99h2121](https://speakerdeck.com/e99h2121)
-
-### 勉強会の開催
-
-- 社内勉強会の企画・運営
-
-### その他
 
 - 作成中
 
