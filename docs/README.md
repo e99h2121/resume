@@ -8,6 +8,7 @@
 |生年月日|1980/05/17|
 |居住地|東京都|
 |最終学歴|早稲田大学教育学部社会科|
+|@see |https://e99h2121.github.io/|
 
 ---
 
@@ -85,6 +86,7 @@
 - **Zenn**
     - [https://zenn.dev/e99h2121](https://zenn.dev/e99h2121)
 - **note**
+    - [https://note.com/e99h2121](https://note.com/e99h2121/)
 
 ### 勉強会での登壇
 
