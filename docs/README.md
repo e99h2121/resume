@@ -40,13 +40,16 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-007396?style=flat-square&logo=Delphi&logoColor=white" />
   <img alt="COBOL" src="https://img.shields.io/badge/-COBOL-FD8308.svg?logo=cobol&style=flat-square" />
+  <img alt="C" src="https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=C&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
 <p>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-3776AB?style=flat-square&logo=SQL&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="DB2" src="https://img.shields.io/badge/-DB2-black?style=flat-square&logo=DB2&logoColor=white" />
+  <img alt="Postgre" src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
@@ -56,27 +59,31 @@
 
 ### 株式会社Works Human Intelligence（2019/08〜現在）
 
-- 2019/04 - 	人事給与 	開発復帰
-
-
+- 2019/08 - 	人事給与 	開発で現職
 
 
 ### 株式会社Works Applications（2003/03〜2019/07）
 
+- 2019/04 - 人事給与 	開発復帰
 - 2018/06 - 2018/09	総務	通翻訳チームの総務引き継ぎ
 - 2016/04 - 2018/06	Advanced Technology and Engineering	通翻訳チーム
-- 2013/07 - 2016/03	上海拠点
-- 2010/07 - 2013/07	頃  人事	技術基盤のチームマネジメント	
-- 2007/07 - 2010/07 頃	人事	DB2マイグレーションプロジェクト、技術基盤系	
+- 2013/07 - 2016/03	上海拠点へ異動
+- 2010/07 - 2013/07	頃  人事	技術基盤のチームマネジメント
+- 2007/07 - 2010/07 頃	人事	DB2マイグレーションプロジェクト、技術基盤の保守
 - 2005/07 - 2007/07 頃	人事	サブシステム担当
-- 2004/07 - 2005/07 頃	共通	新Versionリリース	
-- 2003/07 - 2004/07 頃	会計	三層構造覚えた	
-- 2003/04 ～2003/06	研修	ワークス社初の新卒１期生	Delphi、COBOL
+- 2004/07 - 2005/07 頃	共通	同じく三層構造での新Versionリリース
+- 2003/07 - 2004/07 頃	会計	三層構造アプリケーション開発
+- 2003/04 - 2003/06	研修	ワークス社初の新卒１期生	Delphi、COBOL
 
 
 ---
 
 ## 業務外活動
+
+### 社内
+
+- 情報共有目的のWiki構築
+
 
 ### 技術記事投稿
 
