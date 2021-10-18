@@ -49,7 +49,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-3776AB?style=flat-square&logo=SQL&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle&logoColor=white" />
   <img alt="DB2" src="https://img.shields.io/badge/-DB2-black?style=flat-square&logo=DB2&logoColor=white" />
-  <img alt="Postgre" src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
