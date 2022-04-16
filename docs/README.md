@@ -154,7 +154,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/issues-pr/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
