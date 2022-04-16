@@ -144,17 +144,17 @@
     </tr>
     <tr>
       <td><a href="https://womeneng.jp/links"><b>WomenEng</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://www.freecodecamp.org/"><b>freeCodeCamp</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/issues-pr/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
