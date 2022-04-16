@@ -27,6 +27,8 @@
 
 - JavaScript、Delphiでのフロントエンド開発・設計
 - Java、COBOLでのサーバーサイド開発・設計
+- DBマイグレーション
+- AWS関連
 - テックブログ、勉強会、社内学習のコミュニティ形成
 - アジャイル、スクラムの進行補助
 
@@ -59,6 +61,7 @@
 
 ### 株式会社Works Human Intelligence（2019/08〜現在）
 
+- 2022/04 - 	組織開発、開発広報
 - 2019/08 - 	人事給与 	開発で現職
 
 
@@ -66,14 +69,14 @@
 
 - 2019/04 - 人事給与 	開発復帰
 - 2018/06 - 2018/09	総務	通翻訳チームの総務引き継ぎ
-- 2016/04 - 2018/06	Advanced Technology and Engineering	通翻訳チーム
+- 2016/04 - 2018/06	帰任、Advanced Technology and Engineering	通翻訳チーム
 - 2013/07 - 2016/03	上海拠点へ異動
 - 2010/07 - 2013/07	頃  人事	技術基盤のチームマネジメント
 - 2007/07 - 2010/07 頃	人事	DB2マイグレーションプロジェクト、技術基盤の保守
 - 2005/07 - 2007/07 頃	人事	サブシステム担当
 - 2004/07 - 2005/07 頃	共通	同じく三層構造での新Versionリリース
 - 2003/07 - 2004/07 頃	会計	三層構造アプリケーション開発
-- 2003/04 - 2003/06	研修	ワークス社初の新卒１期生	Delphi、COBOL
+- 2003/04 - 2003/06	研修	「ベンチャー」初の新卒１期生	Delphi、COBOL
 
 
 ---
@@ -88,16 +91,20 @@
 ### 技術記事投稿
 
 - **Qiita**
-    - 2021/10 現在、269 記事、 25,132LGTM
+    - 2022/04 現在、379 記事、 31207 Contributions
     - [https://qiita.com/e99h2121](https://qiita.com/e99h2121)
 - **Zenn**
     - [https://zenn.dev/e99h2121](https://zenn.dev/e99h2121)
 - **note**
     - [https://note.com/e99h2121](https://note.com/e99h2121/)
 
-### 勉強会での登壇
+### 登壇
 
 - **登壇資料**
+    - 2022 デブサミ
+        - https://speakerdeck.com/whisaiyo/developers-summit-202202
+    - 2021 デブサミウーマン
+        - https://speakerdeck.com/whisaiyo/women-developers-summit-2021
     - [https://speakerdeck.com/e99h2121](https://speakerdeck.com/e99h2121)
 
 ### 勉強会の開催
@@ -106,7 +113,12 @@
 
 ### その他
 
-- 作成中
+- 「ソフトウェアアーキテクチャの基礎」プルーフリーディング
+    - https://qiita.com/e99h2121/items/1844f5ed8da453a6dfb0
+- OSSコントリビューション
+    - https://womeneng.jp/links
+    - https://www.freecodecamp.org/japanese/news/learn-programming-by-yourself-freecodecamp-japanese-released/
+
 
 ### OSS活動
 
@@ -130,21 +142,44 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/e99h2121/resume?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/e99h2121/resume?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://womeneng.jp/links"><b>WomenEng</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.freecodecamp.org/"><b>freeCodeCamp</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
+
+
 ### 副業
 
-- 作成中
+- Techpit
+    - https://www.techpit.jp/courses/196
 
 ---
 
 ## 意欲・興味
 - 新しい技術・分野などに抵抗はなく、学習しながらアウトプットをすることが得意です。
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています。
+- 開発、手を動かせる会社。自分は技術力一本というわけではないが新しいことを吸収するのは得意なので、第一人者になれる組織を歓迎したい。
+- 300人足らずの会社に新卒入社して会社が大きくなるのを見て楽しく働いています。人生折り返しを考えたときにそれだけというのが非常にもったいないとは感じており、転職そのものをしてみたい意欲はあります。
 
 ---
 
 ## 希望条件
-- フルリモートワークでの勤務を希望します（月数回の出社等は可）
-- 言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだと良いです
+- 可能な範囲で、フルリモートワークでの勤務を希望します（月数回の出社等は可）
+- 言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていける組織。
+- 若い組織。特に急成長中な組織。
+- より柔軟に考えを話せる組織。自分を先輩扱いしない組織。
+- ある会社からメンバーが独立したとかそういう特定の文化色濃い会社ではなく、色んな人の寄せ集まりで新しい文化が作られ始めている組織。
+- 女性がマネジメント職にいること、男性が育児をすることを積極的に応援している組織は素敵だと思います。
