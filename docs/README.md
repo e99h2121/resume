@@ -64,7 +64,10 @@
 
 - 2022/04 - 	組織開発、開発広報
 - 2019/08 - 	人事給与 	開発
-
+    - [関数とうまく付き合おう - マイグレーションにやさしい「データベースとのかかわり方」 - Qiita](https://qiita.com/e99h2121/items/efd3e12a526816775aab)
+    - [人事システム「COMPANY」のバッチ処理の裏(側) の話 - Qiita](https://qiita.com/e99h2121/items/d9a83a6e47a53dcfbfbd)
+    - [バッチサーバーFargate化プロジェクトのまとめ - Qiita](https://qiita.com/e99h2121/items/38cb0e004d51dffd2716)
+    - [社内で開発として顧客フロント各位に向けて「カスタマーサクセス」を目指す勉強会をしたので、その感想 - Qiita](https://qiita.com/e99h2121/items/2d927bda7ba6bf158bd1)
 
 ### 株式会社Works Applications（2003/03〜2019/07）
 
