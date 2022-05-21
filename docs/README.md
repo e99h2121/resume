@@ -108,6 +108,7 @@
 - **登壇資料**
     - 2022 デブサミ
         - https://speakerdeck.com/whisaiyo/developers-summit-202202
+        - 動画 [［17-C-6］我々はいかにして多様性を活かす文書化された世界を作るか～私たちがぼちぼち生き延びる、キャリアを見失わないための失敗史～ CodeZine（コードジン）](https://codezine.jp/devonline/archive/session/83) 
     - 2021 デブサミウーマン
         - https://speakerdeck.com/whisaiyo/women-developers-summit-2021
     - [https://speakerdeck.com/e99h2121](https://speakerdeck.com/e99h2121)
