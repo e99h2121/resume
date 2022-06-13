@@ -64,7 +64,7 @@
 
 ### 株式会社Works Human Intelligence（2019/08〜現在）
 
-- 2022/04 - 	組織開発、オンボーディング支援、開発広報。2021年度 Qiita 年間 TOP Contributor獲得
+- 2022/04 - 	組織開発、オンボーディング支援、開発広報。 2021 年度 Qiita 年間 TOP Contributor 獲得
 - 2019/08 - 	人事給与 	開発
     - [関数とうまく付き合おう - マイグレーションにやさしい「データベースとのかかわり方」 - Qiita](https://qiita.com/e99h2121/items/efd3e12a526816775aab)
     - [人事システム「COMPANY」のバッチ処理の裏(側) の話 - Qiita](https://qiita.com/e99h2121/items/d9a83a6e47a53dcfbfbd)
@@ -100,7 +100,7 @@
 ### 技術記事投稿
 
 - **Qiita**
-    - 2021年度 Qiita 年間 TOP Contributor。2022/04 現在、379 記事、 31207 Contributions
+    - 2021 年度 Qiita 年間 TOP Contributor 。2022/04 現在、379 記事、 31207 Contributions
     - [https://qiita.com/e99h2121](https://qiita.com/e99h2121)
 - **Zenn**
     - [https://zenn.dev/e99h2121](https://zenn.dev/e99h2121)
