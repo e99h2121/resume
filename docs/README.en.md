@@ -1,8 +1,10 @@
 # YAMADA Nobuko
 
-||
+|-|
 |---|
 |山田 展子（YAMADA Nobuko）|
+|B8-502, Midori-cho 2-3, Musashino, Tokyo|
+|yamada.nobuk@gmail.com|
 |https://e99h2121.github.io/|
 
 
@@ -23,7 +25,6 @@ The length of my career at one company has allowed me to dig deep into a variety
 
 See for reference.
 
-
 ---
 
 ## Qualifications
@@ -38,11 +39,7 @@ See for reference.
 - Business English
 - Daily Chinese
 
----
 
-## Technology Stacks
-
-### Programming Language
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -51,8 +48,6 @@ See for reference.
   <img alt="C" src="https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=C&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 </p>
-
-### Framework etc.
 <p>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-3776AB?style=flat-square&logo=SQL&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle&logoColor=white" />
@@ -62,6 +57,8 @@ See for reference.
 </p>
 
 ---
+
+<div class="page"/>
 
 ## Work Experience
 
@@ -92,6 +89,8 @@ See for reference.
 - 2003/04 - 2003/06 Training completed
 
 ---
+
+<div class="page"/>
 
 ## Other Projects
 
@@ -130,45 +129,5 @@ See for reference.
     - https://www.freecodecamp.org/japanese/news/learn-programming-by-yourself-freecodecamp-japanese-released/
 - Techpit
     - https://www.techpit.jp/courses/196
-
-
-### OSS Contribution
-
-#### Repositories
-
-<table>
-  <thead>
-    <tr>
-      <td><b>Projects</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Issues</b></td>
-      <td><b>Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/e99h2121/resume"><b>Resume</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/e99h2121/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/e99h2121/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/e99h2121/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/e99h2121/resume?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://womeneng.jp/links"><b>WomenEng</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/womenengjp/womeneng.jp?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.freecodecamp.org/"><b>freeCodeCamp</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freeCodeCamp/freeCodeCamp?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 
