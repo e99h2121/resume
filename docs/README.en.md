@@ -3,7 +3,6 @@
 |-|
 |---|
 |山田 展子（YAMADA Nobuko）|
-|B8-502, Midori-cho 2-3, Musashino, Tokyo|
 |yamada.nobuk@gmail.com|
 |https://e99h2121.github.io/|
 
