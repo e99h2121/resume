@@ -14,13 +14,15 @@
 
 ## 保有スキル
 
-- JavaScript、Delphi でのフロントエンド開発・設計
+- テクニカル サポート
+- テックブログ、勉強会、社内・社外学習のコミュニティ形成
 - Java、COBOL でのサーバーサイド開発・設計
-- DB マイグレーション
-- AWS 関連資格 (CLF, SAA)
-- テックブログ、勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの進行補助
+- Database マイグレーション
 - 3 級テクニカルライティング
+- MCP 関連資格 (AZ-900, AZ-104, AZ-204, AZ-305, AZ-400, AZ-500, AZ-700, MS-900, AI-900, SC-900, DP)
+- AWS 関連資格 (CLF, SAA)
+- JavaScript、Delphi でのフロントエンド開発・設計
+- アジャイル、スクラムの進行補助
 - ビジネス英語
 - 日常中国語
 
@@ -46,7 +48,10 @@
 
 ## 職務経歴詳細
 
-### 株式会社Works Human Intelligence（2019/08 に分社〜現在）
+### 日本マイクロソフト株式会社（2022/10 〜）
+- 2022/10 Support Engineer
+
+### 株式会社 Works Human Intelligence（2019/08 に分社〜2022/09）
 
 - 2022/04 - 	組織開発、オンボーディング支援、開発広報。 2021 年度 Qiita 年間 TOP Contributor 獲得
     - [HRシステム「COMPANY® 」開発チームが真剣に雑談する「WHIならではの仕事の楽しみ方」とは？ - Qiita Zine](https://zine.qiita.com/interview/202205-whi/)
@@ -58,7 +63,7 @@
     - [アーキテクチャに関するドキュメントの残しかた - ADRとARCHITECTURE.md テンプレート - Qiita](https://qiita.com/e99h2121/items/f508ef4c9743b8fc9f5b)
 
 
-### 株式会社Works Applications（2003/03〜2019/07）
+### 株式会社 Works Applications（2003/03〜2019/07）
 
 - 2019/04 - 人事給与 	開発復帰
 - 2018/06 - 2018/09	総務	通翻訳チームの総務引き継ぎ
